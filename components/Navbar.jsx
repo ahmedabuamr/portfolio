@@ -85,7 +85,7 @@ export default function Navbar() {
           </div>
 
           <div className='pt-10'>
-            <p className=' py-4 uppercase tracking-widest text-[#5651e5]'>Let's Connect</p>
+            <p className=' py-4 uppercase tracking-widest text-[#5651e5]'>Let&#39;s Connect</p>
             <div className=' flex justify-between items-center'>
               <Link href="https://www.linkedin.com/in/ahmed-abu-amr-5252a3159/">
                 <a target="_blank" >
