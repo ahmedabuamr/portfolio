@@ -54,7 +54,7 @@ export default function Navbar() {
             </div>
           </div>
           <div className='my-4 border-b border-gray-300'>
-            <p className="w-[%87] text-gray-500 text-sm py-4"> I’m focused on building responsive front-end web applications
+            <p className="w-[%87] text-gray-500 text-sm py-4"> I&#39;m focused on building responsive front-end web applications
             integrating back-end technologies.</p>
           </div>
           <div>

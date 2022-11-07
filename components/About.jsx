@@ -9,7 +9,7 @@ export default function About() {
                     <p className='text-[#5651e5] uppercase font-bold tracking-widest text-xl py-4'>About</p>
                     <h2 className='py-2'>Who I Am</h2>
                     <p className='py-4 text-gray-600'>I specialize in building  responsive front-end UI applications
-                        that connect with API’s and other backend technologies. I’m
+                        that connect with API&#39;s and other backend technologies. I&#39;m
                         passionate about learning new technologies and understand there is
                         more than one way to accomplish a task. Though I am most proficient
                         in building front-end applications using HTML, CSS, Javascript, and

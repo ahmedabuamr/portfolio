@@ -7,10 +7,10 @@ export default function Hero() {
     <div className='w-full h-screen text-center'>
       <div className=' max-w-[1240px] w-full h-full mx-auto p-2 flex justify-center items-center'>
         <div>
-          <h1 className='py-3 text-2xl md:text-5xl text-gray-700'>Hi, I'm <span className='text-[#5651e5]'>Ahmed</span></h1>
+          <h1 className='py-3 text-2xl md:text-5xl text-gray-700'>Hi, I&#39;m <span className='text-[#5651e5]'>Ahmed</span></h1>
           <h1 className='py-3 text-2xl md:text-5xl text-gray-700'>A Front-End Developer</h1>
           <p className='py-3  text-gray-500 max-w-[80%] md:max-w-[70%] m-auto'>
-            I’m focused on building responsive front-end web applications
+            I&#39;m focused on building responsive front-end web applications
             integrating back-end technologies.
           </p>
           <div className='flex justify-between items-center max-w-[330px] m-auto pt-4'>
