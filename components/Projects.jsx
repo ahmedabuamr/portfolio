@@ -1,9 +1,9 @@
 import React from 'react'
 
-import food from '../public/assets/projects/food.png'
+import food from '../public/assets/projects/food.PNG'
 import netflix from '../public/assets/projects/netflix.jpg'
 import sinbad from '../public/assets/projects/sinbad.jpg'
-import gam from '../public/assets/projects/gam.png'
+import gam from '../public/assets/projects/gam.PNG'
 import ProjectItems from './ProjectItems'
 
 export default function Projects() {
