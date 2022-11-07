@@ -1,6 +1,13 @@
 import React from 'react'
 import Image from 'next/image'
 import Html from '../public/assets/skills/html.png'
+import Css from '../public/assets/skills/css.png'
+import Reacts from '../public/assets/skills/react.png'
+import Firebase from '../public/assets/skills/firebase.png'
+import JavaScript from '../public/assets/skills/javaScript.png'
+import Shopify from '../public/assets/skills/shopify.png'
+import Next from '../public/assets/skills/nextjs.png'
+import Tailwind from '../public/assets/skills/tailwind.png'
 export default function Skills() {
     return (
         <div id = "skills" className='w-full lg:h-screen px-4'>
@@ -28,7 +35,7 @@ export default function Skills() {
                         <div className=' grid grid-cols-2 gap-4 justify-center items-center'>
                             <div className='m-auto'>
                                 <Image
-                                    src= '/../public/assets/skills/css.png'
+                                    src={Css}
                                     width="64"
                                     height="64"
                                     alt="..."
@@ -43,7 +50,7 @@ export default function Skills() {
                         <div className=' grid grid-cols-2 gap-4 justify-center items-center'>
                             <div className='m-auto'>
                                 <Image
-                                     src= '/../public/assets/skills/react.png'
+                                    src= {Reacts}
                                     width="64"
                                     height="64"
                                     alt="..."
@@ -58,7 +65,7 @@ export default function Skills() {
                         <div className=' grid grid-cols-2 gap-4 justify-center items-center'>
                             <div className='m-auto'>
                                 <Image
-                                    src= '/../public/assets/skills/firebase.png'
+                                    src= {Firebase}
                                     width="64"
                                     height="64"
                                     alt="..."
@@ -73,7 +80,7 @@ export default function Skills() {
                         <div className=' grid grid-cols-2 gap-4 justify-center items-center'>
                             <div className='m-auto'>
                                 <Image
-                                    src= '/../public/assets/skills/javascript.png'
+                                    src= {JavaScript}
                                     width="64"
                                     height="64"
                                     alt="..."
@@ -88,7 +95,7 @@ export default function Skills() {
                         <div className=' grid grid-cols-2 gap-4 justify-center items-center'>
                             <div className='m-auto'>
                                 <Image
-                                    src= '/../public/assets/skills/shopify.png'
+                                    src= {Shopify}
                                     width="64"
                                     height="64"
                                     alt="..."
@@ -103,7 +110,7 @@ export default function Skills() {
                         <div className=' grid grid-cols-2 gap-4 justify-center items-center'>
                             <div className='m-auto'>
                                 <Image
-                                    src= '/../public/assets/skills/nextjs.png'
+                                    src= {Next}
                                     width="64"
                                     height="64"
                                     alt="..."
@@ -118,7 +125,7 @@ export default function Skills() {
                         <div className=' grid grid-cols-2 gap-4 justify-center items-center'>
                             <div className='m-auto'>
                                 <Image
-                                    src= '/../public/assets/skills/tailwind.png'
+                                    src= {Tailwind}
                                     width="64"
                                     height="64"
                                     alt="..."
